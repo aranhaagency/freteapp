@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tag-page-js","path":"/tags/gtd/","webpackCompilationHash":"","result":{"data":{"site":{"siteMetadata":{"title":"Bricolage"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/simplegtd/"},"frontmatter":{"title":"SimpleGTD"}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"gtd"}}}
