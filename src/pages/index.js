@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { scale, rhythm } from "../utils/typography"
-import logo from "../images/logo.png"
+import logo from "https://instagram.fbfh10-1.fna.fbcdn.net/vp/892a4c2b6fdca8246b2923b398d8168a/5DF591EE/t51.2885-19/s320x320/68857112_490740921727836_1729163376786931712_n.jpg?_nc_ht=instagram.fbfh10-1.fna.fbcdn.net"
 
 const NoStyleLink = props => (
   <Link css={{ color: `inherit`, textDecoration: `none` }} {...props} />
