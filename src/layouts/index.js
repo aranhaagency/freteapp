@@ -50,8 +50,8 @@ class Wrapper extends React.Component {
               lineHeight: scale(2 / 5).lineHeight,
             }}
           >
-            <NoStyleLink to="/blog/">blog</NoStyleLink>,{" "}
-            <NoStyleLink to="/about/">about</NoStyleLink>
+            <NoStyleLink to="/freteapp/blog/">blog</NoStyleLink>,{" "}
+            <NoStyleLink to="/freteapp/about/">about</NoStyleLink>
           </div>
         </div>
         <div

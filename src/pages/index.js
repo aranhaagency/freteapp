@@ -97,7 +97,6 @@ export default () => {
         <NoStyleLink to="/"><img 
           css={{
             width: `30%`,
-            display: `none`,
           }}
         src={logo} alt="Logo" /></NoStyleLink>
       </div>
