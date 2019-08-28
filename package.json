@@ -36,5 +36,12 @@
     "typography": "^1.0.0-alpha.0",
     "typography-plugin-code": "^1.0.0-alpha.0",
     "typography-theme-de-young": "^1.0.0-alpha.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "deploy:github": "npm run build && node ./deploy-github"
   }
 }
